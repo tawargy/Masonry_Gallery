@@ -2,7 +2,7 @@
 
 dynamic masonry gallery of imagesg
 
-!(imd)[./Screenshot.png]
+!(imd)[Screenshot.png]
 
 ### Stack
 
