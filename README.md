@@ -1,8 +1,8 @@
 ## Masonry Gallery
 
-dynamic masonry gallery of imagesg
+dynamic masonry gallery
 
-!(imd)[Screenshot.png]
+![Screenshot.png](Screenshot.png)
 
 ### Stack
 
